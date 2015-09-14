@@ -1,6 +1,6 @@
 {
   "name": "test",
-  "version": "1.0.0",
+  "version": "2.14.2",
   "description": "Test the node.js framework package.json with github",
   "main": "index.js",
   "scripts": {
